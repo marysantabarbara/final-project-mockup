@@ -8,10 +8,31 @@ FlowRouter.route('/', {
   },
 });
 
+FlowRouter.route('/about', {
+  name: 'About_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'About_Page' });
+  },
+});
+
 FlowRouter.route('/profile-page', {
   name: 'Profile_Page',
   action() {
     BlazeLayout.render('App_Body', { main: 'Profile_Page' });
+  },
+});
+
+FlowRouter.route('/review', {
+  name: 'Review_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Review_Page' });
+  },
+});
+
+FlowRouter.route('/message', {
+  name: 'Message_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Message_Page' });
   },
 });
 

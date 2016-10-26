@@ -3,11 +3,10 @@
   <div class="ui top secondary pointing menu">
     <div class="ui container">
       <a class="active item" href="{{pathFor 'Home_Page'}}"><h1 id="mainLogo">STUDie</h1></a>
-      {{#if currentUser}}
-      <!--<a class="{{ isActiveRoute 'Schedule_Page'}} item" href="{{ pathFor 'Add_Stuff_Page' }}">Schedule</a>-->
-      <a class="{{ isActiveRoute 'Profile_Page'}} item" href="{{ pathFor 'Profile_Page' }}">Profile</a>
-      {{/if}}
-      <a href="#" class="right item">{{> loginButtons }} </a>
+      <a class="item" href="{{pathFor 'About_Page'}}"><h3>About</h3></a>
+      <a class="item" href=#><h3>Events</h3></a>
+      <a class="item" href=#><h3>Reserve a Space</h3></a>
+      <a class="right item" href="#">{{> loginButtons }} </a>
     </div>
   </div>
 

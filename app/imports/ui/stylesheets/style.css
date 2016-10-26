@@ -1,5 +1,8 @@
+body {
+  background-color: rgba(235, 233, 234, 0.6);
+}
 #mainLogo {
-  color: #006616;
+  color:  #003c11;
 }
 
 .ui.top.secondary.pointing.menu {
