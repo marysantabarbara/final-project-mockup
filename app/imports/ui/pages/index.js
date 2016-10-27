@@ -16,6 +16,10 @@ import './profile-page.js';
 import './review-page.html';
 import './review-page.js';
 
+import './make-review-page.html';
+
+import './groups-page.html';
+
 import './message-page.html';
 import './message-page.js';
 

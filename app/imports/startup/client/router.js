@@ -29,6 +29,13 @@ FlowRouter.route('/review', {
   },
 });
 
+FlowRouter.route('/make-review', {
+  name: 'Make_Review_Page',
+    action() {
+  BlazeLayout.render('App_Body', { main: 'Make_Review_Page' });
+},
+});
+
 FlowRouter.route('/message', {
   name: 'Message_Page',
   action() {
@@ -36,6 +43,12 @@ FlowRouter.route('/message', {
   },
 });
 
+FlowRouter.route('/groups', {
+  name: 'Groups_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Groups_Page' });
+  },
+});
 FlowRouter.route('/list', {
   name: 'List_Stuff_Page',
   action() {

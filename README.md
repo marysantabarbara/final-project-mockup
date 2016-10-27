@@ -1,16 +1,29 @@
 # STUDie
 
-Landing Page
-<img src="doc\homepage(2).png">
+## Landing Page
 
-About Page
-<img src="doc\aboutpage.png">
+<img src="doc\landing-page.png">
 
-Profile Page / User Homepage
-<img src="doc\profilepage(2).png">
+## About Page
 
-Review Page
-<img src="doc\reviewpage.png">
+<img src="doc\about-page.png">
 
-Messages Page
-<img src="doc\messagespage.png">
+## Profile Page / User Homepage
+
+<img src="doc\profile-page.png">
+
+## Review Page
+
+<img src="doc\review-page.png">
+
+## Make Review Page
+
+<img src="doc\make-review-page.png">
+
+## Messages Page
+
+<img src="doc\messages-page.png">
+
+## Groups
+
+<img src="doc\groups-page.png">
