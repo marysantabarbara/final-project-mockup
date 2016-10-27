@@ -18,7 +18,7 @@
 
 ## Make Review Page
 
-<img src="doc\make-review-page.png">
+<img src="doc\make-reveiw-page.png">
 
 ## Messages Page
 
