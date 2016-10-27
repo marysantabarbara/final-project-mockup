@@ -14,11 +14,11 @@
 
 ## Review Page
 
-<img src="doc\review-page.png">
+<img src="doc\reveiw-page.png">
 
 ## Make Review Page
 
-<img src="doc\make-reveiw-page.png">
+<img src="doc\make-review-page.png">
 
 ## Messages Page
 
