@@ -14,7 +14,7 @@
 
 ## Connect Page
 
-<img src="doc\connect-page.png"
+<img src="doc\connect-page.png">
 
 ## Profile Page / User Homepage
 
