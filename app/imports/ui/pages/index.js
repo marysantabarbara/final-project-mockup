@@ -10,6 +10,10 @@ import './home-page.js';
 import './about-page.html';
 import './about-page.js';
 
+import './events-page.html';
+
+import './connect-page.html';
+
 import './profile-page.html';
 import './profile-page.js';
 

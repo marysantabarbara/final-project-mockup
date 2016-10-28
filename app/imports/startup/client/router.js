@@ -15,6 +15,21 @@ FlowRouter.route('/about', {
   },
 });
 
+FlowRouter.route('/events', {
+  name: 'Events_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Events_Page' });
+  },
+});
+
+
+FlowRouter.route('/connect', {
+  name: 'Connect_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Connect_Page' });
+  },
+});
+
 FlowRouter.route('/profile-page', {
   name: 'Profile_Page',
   action() {

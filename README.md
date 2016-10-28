@@ -8,6 +8,14 @@
 
 <img src="doc\about-page.png">
 
+## Events Page
+
+<img src="doc\events-page.png">
+
+## Connect Page
+
+<img src="doc\connect-page.png"
+
 ## Profile Page / User Homepage
 
 <img src="doc\profile-page.png">
